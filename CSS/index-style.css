@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+:root{
+    --txtDark: #f2efed;
+    --bgClaro: #b5b8c5;
+    --bgDark: #3a3d4a;
+    --pClaro:#df7001;
+    --pDark:#fe8f20;
+    --sClaro:#d24732;
+    --sDark: #cd422d;
+    --accClaro:#000000;
+    --accDark:#ffffff;
+}
